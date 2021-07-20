@@ -1,5 +1,5 @@
 Concert Tickets Booking System . 
-Use of following libraries :
+Use of following libraries 
 react-reveal aewsome for animations 
 react slick for the carousel componenet .
 react scroll library to make the sidedrawer .
