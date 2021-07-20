@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+Concert Tickets Booking System . 
+Use of following libraries :
+react-reveal aewsome for animations 
+react slick for the carousel componenet .
+react scroll library to make the sidedrawer .
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
